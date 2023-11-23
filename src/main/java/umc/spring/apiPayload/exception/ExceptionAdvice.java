@@ -13,6 +13,7 @@ import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 import umc.spring.apiPayload.ApiResponse;
 import umc.spring.apiPayload.code.ErrorReasonDTO;
+import umc.spring.apiPayload.code.status.ErrorStatus;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.ConstraintViolationException;
