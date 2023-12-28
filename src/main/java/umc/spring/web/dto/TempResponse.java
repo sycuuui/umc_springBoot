@@ -10,4 +10,7 @@ public class TempResponse {
     public static class TempTestDTO{
         String testString;
     }
+
+    public class TempExceptionDTO {
+    }
 }
